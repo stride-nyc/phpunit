@@ -85,5 +85,8 @@
         "branch-alias": {
             "dev-main": "11.1-dev"
         }
+    },
+    "require-dev": {
+        "phan/phan": "5.x"
     }
 }
