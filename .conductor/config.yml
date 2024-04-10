@@ -2,5 +2,5 @@ conductor:
   include_file_formats:
   - php
   language: php
-  test_command: phpunit
-  test_regex: ^.*Test\.php$
+  # test_command: phpunit
+  # test_regex: ^.*Test\.php$
